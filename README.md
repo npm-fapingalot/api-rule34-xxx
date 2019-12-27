@@ -10,8 +10,8 @@ This library supports fetching:
 
 # API
 
-## Manga
-### getManga(manga_id)
+## Post
+### getPost(post_id)
 
 ## Lists
 ``` WARNING: The string arguments are not escaped (Eg. query, tag, ...) ```  
